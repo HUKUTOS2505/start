@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Open Sans";
+    src:
+            local("Open Sans"),
+            local("OpenSans"),
+            url('../fonts/OpenSans-SemiBold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Gothic A1";
+    src:
+            local("Gothic A1"),
+            local("Gothic_A1"),
+            url('../fonts/GothicA1-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Gothic A1";
+    src:
+            local("Gothic A1"),
+            local("Gothic_A1"),
+            url('../fonts/GothicA1-SemiBold.ttf');
+    font-weight: 600;
+}
